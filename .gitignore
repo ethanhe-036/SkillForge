@@ -1,0 +1,18 @@
+# Personal private skills
+personal/.private/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Logs
+*.log
