@@ -14,5 +14,10 @@ __pycache__/
 *.pyc
 .env
 
+# skill-product
+remotion-video
+.cursor
+.trae
+
 # Logs
 *.log
